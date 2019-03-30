@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+<input overlap="1" levelingpitch="0" width="1920" levelingroll="0" leveltileurl="tiles//cf_%c/l_%l/c_%x/tile_%y.jpg" height="1920" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510">
+  <level width="1920" preload="0" height="1920" predecode="0"/>
+  <level width="960" preload="0" height="960" predecode="0"/>
+  <level width="480" preload="1" height="480" predecode="1"/>
+  <preview color="0x808080" strip="1"/>
+</input>
+<view fovmode="0" pannorth="0">
+  <start fov="70" pan="0" tilt="0"/>
+  <min fov="5" pan="0" tilt="-90"/>
+  <max fov="120" pan="360" tilt="90"/>
+</view>
+<userdata author="" info="" latitude="" comment="" copyright="" title="" tags="" longitude="" source="" description="" datetime=""/>
+<hotspots width="180" wordwrap="1" height="20">
+  <label background="1" borderalpha="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" height="20" borderradius="1" textcolor="0x000000" textalpha="1" border="1" backgroundalpha="1" backgroundcolor="0xffffff"/>
+  <polystyle borderalpha="1" handcursor="1" mode="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/></hotspots>
+<media/>
+<transition zoomin="0" zoomoutpause="1" enabled="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomout="0" zoomfov="20"/>
+<control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" simulatemass="1" sensitivity="8" lockedwheel="0" contextfullscreen="0"/>
+</panorama></tour>

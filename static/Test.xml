@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input overlap="1" levelingpitch="0" width="1920" levelingroll="0" leveltileurl="tiles/static/textures/tianyucube/cf_%c/l_%l/c_%x/tile_%y.jpg" fileName="tianyu01.jpg" fileUrl="/static/textures/tianyu01.jpg" height="1920" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" info="" latitude="" comment="" copyright="" title="" tags="" longitude="" source="" description="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" height="20" borderradius="1" textcolor="0x000000" textalpha="1" border="1" backgroundalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" handcursor="1" mode="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point1" url="{node2}" pan="164.89481600126166" target="0/0/0" tilt="-16.089633500715934" title="{123}" jumpHotSpotsx="462.8036530643613" jumpHotSpotsy="-138.5704077148332" jumpHotSpotsz="124.91893234897971" description=""/>
+      <hotspot skinid="ht_node" id="Point2" url="{node2}" pan="135.89481600126166" target="0/0/0" tilt="-14.089633500715934" title="{234}" jumpHotSpotsx="335.8036530643613" jumpHotSpotsy="-15.5704077148332" jumpHotSpotsz="54.91893234897971" description=""/>
+      <polyhotspot id="hpimage00" url="http://32" title="" description="" target="_blank">
+        <vertex pan="-170.43232473279156" tilt="10.678509743770121" urlHotSpotsx="483.5042796618072" urlHotSpotsy="92.64902406197642" urlHotSpotsz="-81.49807075486969"/>
+        <vertex pan="171.30407870719188" tilt="9.096405651797177" urlHotSpotsx="487.3419756347781" urlHotSpotsy="79.04806165251075" urlHotSpotsz="74.53829727293324"/>
+        <vertex pan="173.53738583784403" tilt="-6.943547350718248" urlHotSpotsx="492.603700845532" urlHotSpotsy="-60.44567198471953" urlHotSpotsz="55.79952706729614"/>
+        <vertex pan="-167.93482301721318" tilt="-3.8962161944195794" urlHotSpotsx="487.6211005395359" urlHotSpotsy="-33.9747017906303" urlHotSpotsz="-104.22696108766527"/>
+      </polyhotspot><polyhotspot id="hpimage" url="" title="" description="" target="images/tianyu02.jpg">
+      <vertex pan="153.3500458701213" tilt="6.109527282795874" imageHotSpotsx="443.4245199065879" imageHotSpotsy="53.21470540969656" imageHotSpotsz="222.53422262236742"/>
+      <vertex pan="147.8881067539567" tilt="-7.005709894369772" imageHotSpotsx="419.4941356041931" imageHotSpotsy="-60.984128216197014" imageHotSpotsz="263.26953318405765"/>
+      <vertex pan="146.01765196455656" tilt="3.893615107168334" imageHotSpotsx="412.99277241431435" imageHotSpotsy="33.95205544940638" imageHotSpotsz="278.38205611375867"/>
+      <vertex pan="156.86090876858162" tilt="-2.298503161437229" imageHotSpotsx="458.74286421274184" imageHotSpotsy="-20.05284440190591" imageHotSpotsz="196.04045058315825"/>
+    </polyhotspot><polyhotspot id="hpimage" url="" title="" description="" target="images/tianyu01.jpg">
+      <vertex pan="-148.93031759736027" tilt="8.326199591050926" imageHotSpotsx="423.24640116409137" imageHotSpotsy="72.40433274317623" imageHotSpotsz="-255.01319508207922"/>
+      <vertex pan="-151.94423305036986" tilt="-16.006389662748557" imageHotSpotsx="423.2806669595105" imageHotSpotsy="-137.87227731741652" imageHotSpotsz="-225.59105753233916"/>
+      <vertex pan="-139.32247577979223" tilt="-8.43392141542679" imageHotSpotsx="374.6114909858356" imageHotSpotsy="-73.33434605014126" imageHotSpotsz="-321.96113054751834"/>
+      <vertex pan="-157.4130082135568" tilt="-1.8879696048062913" imageHotSpotsx="460.59597433508077" imageHotSpotsy="-16.47266154546067" imageHotSpotsz="-191.6049195341848"/>
+    </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomout="0" zoomfov="20"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" simulatemass="1" sensitivity="8" lockedwheel="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingpitch="0" width="1920" levelingroll="0" leveltileurl="tiles/tianyu02/cf_%c/l_%l/c_%x/tile_%y.jpg" fileName="tianyu02.jpg" fileUrl="/static/textures/tianyu02.jpg" height="1920" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" info="" latitude="" comment="" copyright="" title="" tags="" longitude="" source="" description="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" height="20" borderradius="1" textcolor="0x000000" textalpha="1" border="1" backgroundalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" handcursor="1" mode="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point2" url="{node2}" pan="164.89481600126166" target="0/0/0" tilt="-16.089633500715934" title="{123}" jumpHotSpotsx="462.8036530643613" jumpHotSpotsy="-18.5704077148332" jumpHotSpotsz="94.91893234897971" description=""/>
+      <hotspot skinid="ht_node" id="Point2" url="{node2}" pan="162.89481600126166" target="0/0/0" tilt="-14.089633500715934" title="{123}" jumpHotSpotsx="350.8036530643613" jumpHotSpotsy="-76.5704077148332" jumpHotSpotsz="114.91893234897971" description=""/>
+      <hotspot skinid="ht_node" id="Point2" url="{node2}" pan="153.89481600126166" target="0/0/0" tilt="-18.089633500715934" title="{123}" jumpHotSpotsx="255.8036530643613" jumpHotSpotsy="-30.5704077148332" jumpHotSpotsz="104.91893234897971" description=""/>
+      <hotspot skinid="ht_node" id="Point2" url="{node2}" pan="151.89481600126166" target="0/0/0" tilt="-20.089633500715934" title="{123}" jumpHotSpotsx="158.8036530643613" jumpHotSpotsy="-42.5704077148332" jumpHotSpotsz="74.91893234897971" description=""/>
+      <hotspot skinid="ht_node" id="Point2" url="{node2}" pan="173.36223956682446" target="0/0/0" tilt="20.503280124516433" title="{2213}" jumpHotSpotsx="464.5416311837615" jumpHotSpotsy="175.13050210306227" jumpHotSpotsz="54.059576211877605" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomout="0" zoomfov="20"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" simulatemass="1" sensitivity="8" lockedwheel="0" contextfullscreen="0"/>
+  </panorama>
+</tour>
