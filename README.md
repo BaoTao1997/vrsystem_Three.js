@@ -2,6 +2,17 @@
 
 > A Vue.js project
 
+## 使用方式以及思路
+
+访问地址： https://baotao1997.github.io/vrsystem_Three.js/dist/index.html#/index  *无后台所以保存和发布场景不可用*
+
+具体参考: Three.js的官方例子
+
+图形学相关思路参考:[Three.js全景漫游项目]()
+
+项目具体业务逻辑实现:[vrsystem相关说明]()
+
+
 ## Three.js
 
 是一个基于**WebGL**封装的**JS**库,WebGL绘图API本身支持绘制点(Point),线(line),以及三角形(Triangle)
@@ -163,17 +174,6 @@ camera.position.y = 30;
     window.requestAnimationFrame(loop);
    }
    ```
-
-## 项目结构以及思路
-
-### 思路
-
-具体参考: Three.js的官方例子
-
-图形学相关思路参考:[Three.js全景漫游项目]()
-
-项目具体业务逻辑实现:[vrsystem相关说明]()
-
 
 
 ## 参考
