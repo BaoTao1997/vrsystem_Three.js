@@ -4,7 +4,7 @@
 
 ## 使用方式以及思路
 
-访问地址： http://localhost:8080/#/editor/index  http://127.0.0.1:5500/dist/index.html#/editor/index  无后台所以保存和发布场景不可用
+访问地址： https://baotao1997.github.io/vrsystem_Three.js/dist/index.html#/index  *无后台所以保存和发布场景不可用*
 
 具体参考: Three.js的官方例子
 
