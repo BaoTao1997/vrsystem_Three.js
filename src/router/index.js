@@ -24,9 +24,9 @@ Vue.use(Router);
  // path和component.  path 指路径，component 指的是组件
 export const constantRouterMap = [
   {
-    path: '/editor',
+    path: '/',
     component: Layout,
-    redirect: '/editor/index',
+    redirect: '/index',
     hidden: true,
     icon: 'xinrenzhinan',
     noDropdown: true,
